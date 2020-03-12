@@ -1,6 +1,7 @@
 # scart-comics-addon
 
-This is a CS-Cart add-on that allows you to add / edit information about comics in the admin panel and display information on the product window.
+This is a CS-Cart add-on that allows you to add/edit information about comic bools
+in the admin paneland display it on the product page.
 
 New product fields:
 - Art by (simple text input field);
