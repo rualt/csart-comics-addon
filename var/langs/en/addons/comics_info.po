@@ -23,3 +23,7 @@ msgstr "Release date"
 msgctxt "Languages::comics_info.written_by"
 msgid "Written by"
 msgstr "Written by"
+
+msgctxt "Languages::comics_info.comic_books"
+msgid "Comic books"
+msgstr "Comic books"
