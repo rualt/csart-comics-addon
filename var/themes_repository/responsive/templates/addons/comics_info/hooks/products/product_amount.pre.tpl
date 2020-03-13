@@ -1,4 +1,4 @@
-{* {if !empty($product.art_by)}
+{if !empty($product.art_by)}
     <div class="ty-product-block__field-group">
         <div class="ty-control-group product-list-field">
             <label class="ty-control-group__label">
@@ -29,7 +29,4 @@
             {__($product.comics_info.release_date)}</span>
         </div>
     </div>
-{/if} *}
-
-{* {hook name="products:product_amount"}
-{hook name="products:qty_description"} *} 
+{/if}
