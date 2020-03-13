@@ -26,7 +26,7 @@
             <label class="ty-control-group__label" id="release_date_{$obj_prefix}{$obj_id}">
             {__("comics_info.release_date")}:</label>
             <span class="ty-control-group__item" id="product_code_{$obj_prefix}{$obj_id}">
-            {__($product.comics_info.release_date)}</span>
+            {$product.release_date|date_format:"`$settings.Appearance.date_format`"}</span>
         </div>
     </div>
 {/if}
