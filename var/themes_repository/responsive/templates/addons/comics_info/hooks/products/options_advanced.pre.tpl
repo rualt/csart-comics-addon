@@ -14,7 +14,7 @@
         <div class="ty-control-group product-list-field">
             <label class="ty-control-group__label" for="written_by_{$obj_id}">
             {__("comics_info.written_by")}:</label>
-            <span class="ty-control-group__item" id="written_by_{$obj_id} style="padding:0;">
+            <span class="ty-control-group__item" id="written_by_{$obj_id}" style="padding:0;">
             {$product.written_by nofilter}</span>
         </div>
     </div>
