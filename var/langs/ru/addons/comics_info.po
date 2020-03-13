@@ -6,7 +6,7 @@ msgstr "Project-Id-Version: tygh\n"
 
 msgctxt "Addons::name::comics_info"
 msgid "Comics info"
-msgstr "Comics info"
+msgstr "Информация о комиксах"
 
 msgctxt "Addons::description::comics_info"
 msgid "Comics info"
