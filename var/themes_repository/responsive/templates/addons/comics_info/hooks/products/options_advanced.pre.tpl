@@ -14,7 +14,7 @@
         <div class="ty-control-group product-list-field">
             <label class="ty-control-group__label">
             {__("comics_info.written_by")}:</label>
-            <span class="ty-control-group__item">
+            <span class="ty-control-group__item" style="padding:0;">
             {$product.written_by nofilter}</span>
         </div>
     </div>
