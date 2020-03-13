@@ -18,7 +18,7 @@
         <item for="install">
             ALTER TABLE `?:products`
                 ADD `art_by` VARCHAR(32),
-                ADD `release_date` int(32),
+                ADD `release_date` int(11),
                 ADD `written_by` TEXT;
         </item>
         <item for="uninstall">
