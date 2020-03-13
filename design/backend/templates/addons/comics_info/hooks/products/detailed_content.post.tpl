@@ -25,7 +25,8 @@
     <div class="control-group">
         <label class="control-label" for="elm_release_date">{__("comics_info.release_date")}:</label>
         <div class="controls" style="z-index:2;">
-        {include file="common/calendar.tpl" date_id="elm_release_date" date_name="product_data[release_date]" date_val=($product_data.release_date)}
+            {include file="common/calendar.tpl" date_id="elm_release_date" 
+            date_name="product_data[release_date]" date_val=($product_data.release_date)}
         </div>
     </div>
 
