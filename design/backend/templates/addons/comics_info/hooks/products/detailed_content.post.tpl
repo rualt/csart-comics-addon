@@ -15,7 +15,7 @@
             <textarea id="elm_written_by"
                 name="product_data[written_by]"
                 cols="55"
-                rows="2"
+                rows="1"
                 class="cm-wysiwyg input-large">
                 {$product_data.written_by}
             </textarea>
