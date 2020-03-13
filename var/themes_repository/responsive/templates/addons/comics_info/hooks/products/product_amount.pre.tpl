@@ -15,7 +15,7 @@
             <label class="ty-control-group__label">
             {__("comics_info.written_by")}:</label>
             <span class="ty-control-group__item">
-            {__($product.written_by)}</span>
+            {$product.written_by nofilter}</span>
         </div>
     </div>
 {/if}
