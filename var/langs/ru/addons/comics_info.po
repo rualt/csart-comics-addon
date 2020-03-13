@@ -14,7 +14,7 @@ msgstr "Позволяет добавлять и редактировать ин
 
 msgctxt "Languages::comics_info.art_by"
 msgid "Art by"
-msgstr "Арты"
+msgstr "Художник"
 
 msgctxt "Languages::comics_info.release_date"
 msgid "Release date"
@@ -22,7 +22,7 @@ msgstr "Дата выхода"
 
 msgctxt "Languages::comics_info.written_by"
 msgid "Written by"
-msgstr "Текст"
+msgstr "Писатель"
 
 msgctxt "Languages::comics_info.comic_books"
 msgid "Comic books"
