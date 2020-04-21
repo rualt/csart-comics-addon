@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>comics_info</id>
+    <version>1.0</version>
+    <priority>4294967294</priority>
+    <position>0</position>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <status>active</status>
+    <default_language>en</default_language>
+    <authors>
+        <author>
+            <name>Ruslan Gazihanov</name>
+            <url>https://github.com/rualt</url>
+        </author>
+    </authors>
+
+    <queries>
+        <item for="install">
+            ALTER TABLE `?:products`
+                ADD `art_by` VARCHAR(32),
+                ADD `release_date` int(11),
+                ADD `written_by` TEXT;
+        </item>
+        <item for="uninstall">
+            ALTER TABLE `?:products`
+                DROP `art_by`,
+                DROP `release_date`,
+                DROP `written_by`;
+        </item>
+    </queries>
+
+</addon>

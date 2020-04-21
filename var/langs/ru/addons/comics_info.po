@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::comics_info"
+msgid "Comics info"
+msgstr "Информация о комиксах"
+
+msgctxt "Addons::description::comics_info"
+msgid "Comics info"
+msgstr "Позволяет добавлять и редактировать информацию о комиксах"
+
+msgctxt "Languages::comics_info.art_by"
+msgid "Art by"
+msgstr "Художник"
+
+msgctxt "Languages::comics_info.release_date"
+msgid "Release date"
+msgstr "Дата выхода"
+
+msgctxt "Languages::comics_info.written_by"
+msgid "Written by"
+msgstr "Писатель"
+
+msgctxt "Languages::comics_info.comic_books"
+msgid "Comic books"
+msgstr "Комиксы"

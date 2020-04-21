@@ -1,8 +1,24 @@
-# scart-comics-addon
+## CS-Cart add-on "Comics info" (Информация о комиксах)
 
-This is a CS-Cart add-on that allows you to add / edit information about comics in the admin panel and display information on the product window.
+This CS-Cart add-on allows you to add/edit information about comic books
+at the admin panel and display it on the product page
+
+#### Product page
+![Product page](https://i.ibb.co/XpyckjN/Screenshot-29.png "Product storefront page")
 
 New product fields:
-- Art by (simple text input field);
-- Release date (date input field, the standard CS-Cart calendar is used, without restrictions for entering the date);
-- Author: (text input field with HTML tags, similar to the standard "Description" field).
+- Written by: (text input field with HTML tags panel)
+- Art by (simple text input field)
+- Release date (date input field)
+
+#### Add-on menu
+![Add-on menu](https://i.ibb.co/wcgMTKg/Screenshot-30.png "Where to find add-on menu")
+
+Language: 
+- English
+- Russian
+
+This module does not make any changes to the platform core.
+
+[Installation Details](https://www.cs-cart.ru/docs/latest/user_guide/addons/1manage_addons.html#id2)
+

@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::comics_info"
+msgid "Comics info"
+msgstr "Comics info"
+
+msgctxt "Addons::description::comics_info"
+msgid "Comics info"
+msgstr "Allows you to add and edit information about comic books."
+
+msgctxt "Languages::comics_info.art_by"
+msgid "Art by"
+msgstr "Art by"
+
+msgctxt "Languages::comics_info.release_date"
+msgid "Release date"
+msgstr "Release date"
+
+msgctxt "Languages::comics_info.written_by"
+msgid "Written by"
+msgstr "Written by"
+
+msgctxt "Languages::comics_info.comic_books"
+msgid "Comic books"
+msgstr "Comic books"
